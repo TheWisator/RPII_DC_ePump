@@ -1,0 +1,18 @@
+[StartTime]
+Pressure-Ring-Static 1.MFC=
+[SolverState]
+Pressure-Ring-Static 1.MFC=2
+[MainFrame]
+Pressure-Ring-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAADJEAAAAA
+[ShowMin]
+Pressure-Ring-Static 1.MFC=yes
+[SolverType]
+Pressure-Ring-Static 1.MFC=Linear Analysis
+[StudyType]
+Pressure-Ring-Static 1.MFC=-1
+[StudyName]
+Pressure-Ring-Static 1.MFC=Static 1
+[Solver]
+Pressure-Ring-Static 1.MFC=Iterative
+[Dynamic]
+Pressure-Ring-Static 1.MFC=0

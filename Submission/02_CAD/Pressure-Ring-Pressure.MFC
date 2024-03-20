@@ -1,0 +1,16 @@
+[StartTime]
+Pressure-Ring-Pressure.MFC=8s
+[SolverState]
+Pressure-Ring-Pressure.MFC=2
+[MainFrame]
+Pressure-Ring-Pressure.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAAKDDAAAAA
+[ShowMin]
+Pressure-Ring-Pressure.MFC=No
+[SolverType]
+Pressure-Ring-Pressure.MFC=Linear Analysis
+[StudyType]
+Pressure-Ring-Pressure.MFC=0
+[StudyName]
+Pressure-Ring-Pressure.MFC=Pressure
+[Solver]
+Pressure-Ring-Pressure.MFC=Iterative

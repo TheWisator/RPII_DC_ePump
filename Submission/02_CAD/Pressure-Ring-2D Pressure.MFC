@@ -1,0 +1,16 @@
+[StartTime]
+Pressure-Ring-2D Pressure.MFC=1s
+[SolverState]
+Pressure-Ring-2D Pressure.MFC=2
+[MainFrame]
+Pressure-Ring-2D Pressure.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAAKDDAAAAA
+[ShowMin]
+Pressure-Ring-2D Pressure.MFC=No
+[SolverType]
+Pressure-Ring-2D Pressure.MFC=Linear Analysis
+[StudyType]
+Pressure-Ring-2D Pressure.MFC=0
+[StudyName]
+Pressure-Ring-2D Pressure.MFC=2D Pressure
+[Solver]
+Pressure-Ring-2D Pressure.MFC=Sparse

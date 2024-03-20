@@ -1,0 +1,45 @@
+#Export_details
+#Version: 2023.0.0
+#Motor Name: RPII_Motor_Delta_2
+#Catalog Name: User_SM_PM_IR_3Ph
+#Family: Synchronous
+#Type: Permanent magnet
+#Sub-type: Inner rotor
+#No. phases: 3.0
+#Test Family: Performance mapping
+#Test Package: Sine wave
+#Test Mode: Motor
+#Test Type: Efficiency map
+#End_export_details
+
+
+#Table_name=basePointData
+#Table_format=KeyValue
+#Version=1.0
+#
+#Item_number=22
+#
+#----General_data----
+Operating_mode=Motor
+Mechanical_torque_(N.m)=+6.038310E-01
+Speed_(rpm)=+4.026374E+04
+Electrical_frequency_(Hz)=+1.342125E+03
+Mechanical_power_(W)=+2.545999E+03
+Machine_electrical_power_(W)=+2.719080E+03
+Machine_total_losses_(W)=+1.730811E+02
+Machine_efficiency_(%)=+9.363457E+01
+Apparent_power_(VA)=+3.213371E+03
+Reactive_power_(VAr)=+1.712399E+03
+Control_angle_(deg)=+6.867236E-01
+Power_factor=+8.461794E-01
+Phase_angle_(deg)=+3.220148E+01
+Line_current,_rms_(A)=+6.184361E+01
+Phase_current,_rms_(A)=+6.184361E+01
+Line-Line_voltage,_rms_(V)=+2.999890E+01
+Phase_voltage_rms_(V)=+1.731988E+01
+#----Power_balance----
+Machine_total_losses_(W)=+1.730811E+02
+Joule_losses_(W)=+7.879095E+01
+Mechanichal_losses_(W)=+0.000000E+00
+Iron_losses_(W)=+9.429012E+01
+Additional_losses_(W)=+0.000000E+00

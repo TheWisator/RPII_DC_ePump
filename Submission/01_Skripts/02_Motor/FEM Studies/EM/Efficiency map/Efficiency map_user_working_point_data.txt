@@ -1,0 +1,45 @@
+#Export_details
+#Version: 2023.0.0
+#Motor Name: RPII_Motor_Delta_2
+#Catalog Name: User_SM_PM_IR_3Ph
+#Family: Synchronous
+#Type: Permanent magnet
+#Sub-type: Inner rotor
+#No. phases: 3.0
+#Test Family: Performance mapping
+#Test Package: Sine wave
+#Test Mode: Motor
+#Test Type: Efficiency map
+#End_export_details
+
+
+#Table_name=userWorkingPointData
+#Table_format=KeyValue
+#Version=1.0
+#
+#Item_number=22
+#
+#----General_data----
+Operating_mode=Motor
+Mechanical_torque_(N.m)=+6.000000E-01
+Speed_(rpm)=+4.500000E+04
+Electrical_frequency_(Hz)=+1.500000E+03
+Mechanical_power_(W)=NaN
+Machine_electrical_power_(W)=NaN
+Machine_total_losses_(W)=NaN
+Machine_efficiency_(%)=NaN
+Apparent_power_(VA)=NaN
+Reactive_power_(VAr)=NaN
+Control_angle_(deg)=NaN
+Power_factor=NaN
+Phase_angle_(deg)=NaN
+Line_current,_rms_(A)=NaN
+Phase_current,_rms_(A)=NaN
+Line-Line_voltage,_rms_(V)=NaN
+Phase_voltage,_rms_(V)=NaN
+#----Power_balance----
+Machine_total_losses_(W)=NaN
+Joule_losses_(W)=NaN
+Mechanical_losses_(W)=NaN
+Iron_losses_(W)=NaN
+Additional_losses_(W)=NaN

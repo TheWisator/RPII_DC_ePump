@@ -1,0 +1,36 @@
+#Export_details
+#Version: 2023.0.0
+#Motor Name: RPII_Motor_Delta_2
+#Catalog Name: User_SM_PM_IR_3Ph
+#Family: Synchronous
+#Type: Permanent magnet
+#Sub-type: Inner rotor
+#No. phases: 3.0
+#Test Family: Performance mapping
+#Test Package: Sine wave
+#Test Mode: Motor
+#Test Type: Efficiency map
+#End_export_details
+
+
+#Table_name=powerFactorCurve
+#Table_format=1D
+#Version=1.0
+#
+#Item_number=1
+#Axis_number=1
+#
+#Axis_name_1=Speed
+#
+#Axis_unit_1=rpm
+#
+#Item_name_1=Power factor
+#
+#Item_unit_1=1
+#
+31
+	
++0.000000E+00	+1.789500E+02	+7.157998E+02	+1.610550E+03	+2.863199E+03	+4.473749E+03	+6.442198E+03	+8.768548E+03	+1.145280E+04	+1.449495E+04	+1.789500E+04	+2.165294E+04	+2.576879E+04	+3.024254E+04	+3.507419E+04	+4.026374E+04	+4.257949E+04	+4.489524E+04	+4.721099E+04	+4.952674E+04	+5.184249E+04	+5.415824E+04	+5.647399E+04	+5.878975E+04	+6.110550E+04	+6.342125E+04	+6.573700E+04	+6.805275E+04	+7.036850E+04	+7.268425E+04	+7.500000E+04
+	
++1.000000E+00	+9.964263E-01	+9.719636E-01	+9.385753E-01	+9.124315E-01	+8.954328E-01	+8.854445E-01	+8.805031E-01	+8.796170E-01	+8.820647E-01	+8.874406E-01	+8.953625E-01	+9.036048E-01	+8.952510E-01	+8.837549E-01	+8.461794E-01	+8.864348E-01	+9.172469E-01	+9.409916E-01	+9.592776E-01	+9.732245E-01	+9.836398E-01	+9.911216E-01	+9.961221E-01	+9.989891E-01	+9.999933E-01	+9.993477E-01	+9.972209E-01	+9.937472E-01	+9.890336E-01	+9.831651E-01
+

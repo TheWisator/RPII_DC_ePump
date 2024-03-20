@@ -1,0 +1,34 @@
+#Export_details
+#Version: 2023.0.0
+#Motor Name: RPII_Motor_Delta_2
+#Catalog Name: User_SM_PM_IR_3Ph
+#Family: Synchronous
+#Type: Permanent magnet
+#Sub-type: Inner rotor
+#No. phases: 3.0
+#Test Family: Performance mapping
+#Test Package: Sine wave
+#Test Mode: Motor
+#Test Type: Efficiency map
+#End_export_details
+
+
+#Table_name=settingData
+#Table_format=KeyValue
+#Version=1.0
+#
+#Item_number=10
+#
+#----Thermal----
+Thermal_solving=No
+Winding_straight_part_temperature_(C)=+2.000000E+01
+C.S._end_winding_temperature_(C)=+2.000000E+01
+O.C.S._end_winding_temperature_(C)=+2.000000E+01
+Magnet_temperature_Tmag_(C)=+2.000000E+01
+#----Electronics----
+Power_electronics_stage=Without
+#----Mechanics----
+Mechanical_loss_computation_mode=User
+Reference_speed_(rpm)=+1.000000E+03
+Losses_at_reference_speed_(W)=+0.000000E+00
+Speed_exponent=+5.000000E-01

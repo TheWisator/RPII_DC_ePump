@@ -1,0 +1,45 @@
+#Export_details
+#Version: 2023.0.0
+#Motor Name: RPII_Motor_Delta_2
+#Catalog Name: User_SM_PM_IR_3Ph
+#Family: Synchronous
+#Type: Permanent magnet
+#Sub-type: Inner rotor
+#No. phases: 3.0
+#Test Family: Performance mapping
+#Test Package: Sine wave
+#Test Mode: Motor
+#Test Type: Efficiency map
+#End_export_details
+
+
+#Table_name=inputData
+#Table_format=KeyValue
+#Version=1.0
+#
+#Item_number=21
+#
+#----Context----
+Family=Performance mapping
+Package=Sine wave
+Convention=Motor
+Test=Efficiency map
+#----Standard_parameters----
+Current_definition_mode=Density
+Max._line_current,_rms_(A)=+6.185011E+01
+Max._current_dens.,_rms_(A/mm2)=+1.000000E+01
+Max._Line-Line_voltage,_rms_(V)=+3.000000E+01
+Command_mode=MTPV
+Maximum_speed_(rpm)=+7.500000E+04
+Additional_losses_(%)=+0.000000E+00
+User_working_point(s)_analysis=Single point
+Mechanical_torque_(N.m)=+6.000000E-01
+Speed_(rpm)=+4.500000E+04
+Duty_cycle_description=-
+#----Advanced_parameters----
+No._comp._for_Jd,_Jq=+5.000000E+00
+No._comp._for_speed=+3.000000E+01
+No._comp._for_torque=+1.000000E+01
+Rotor_initial_position_(deg)=+9.000000E+01
+Mesh_order=2nd
+Airgap_mesh_coefficient=+1.500000E+00

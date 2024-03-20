@@ -1,0 +1,45 @@
+#Export_details
+#Version: 2023.0.0
+#Motor Name: RPII_Motor_Delta_2
+#Catalog Name: User_SM_PM_IR_3Ph
+#Family: Synchronous
+#Type: Permanent magnet
+#Sub-type: Inner rotor
+#No. phases: 3.0
+#Test Family: Performance mapping
+#Test Package: Sine wave
+#Test Mode: Motor
+#Test Type: Efficiency map
+#End_export_details
+
+
+#Table_name=windingMagnetCharacteristicData
+#Table_format=KeyValue
+#Version=1.0
+#
+#Item_number=22
+#
+#----Winding----
+Winding_connection=Wye
+Winding_resistance_factor=+1.000000E+00
+Winding_temperature_(C)=+2.000000E+01
+Phase_resistance_(Ohm)=+6.866973E-03
+Line-Line_resistance_(Ohm)=+1.373395E-02
+End_winding_resistance_(Ohm)=+4.860057E-03
+Winding_straight_part_temperature_(C)=+2.000000E+01
+C.S._end_winding_temperature_(C)=+2.000000E+01
+O.C.S._end_winding_temperature_(C)=+2.000000E+01
+Winding_straight_part_resistance_(Ohm)=+2.006917E-03
+C.S._end_winding_resistance_(Ohm)=+3.007803E-03
+O.C.S._end_winding_resistance_(Ohm)=+1.852254E-03
+#----Magnets----
+Magnet_temperature_Tmag_(C)=+2.000000E+01
+Magnet_name_0=Magnet
+Material_name_0=USER.VAC131_DTP
+Material_reference_temp._Tref_(C)_0=+2.000000E+01
+Remanent_induction_at_Tref_(T)_0=+1.410000E+00
+Intrinsic_coercive_field_at_Tref_(A/m)_0=+1.640000E+06
+Relative_permeability_at_Tref_0=+1.040000E+00
+Remanent_induction_at_Tmag_(T)_0=+1.410000E+00
+Intrinsic_coercive_field_at_Tmag_(A/m)_0=+1.640000E+06
+Relative_permeability_at_Tmag_0=+1.040000E+00
